@@ -1,9 +1,9 @@
-#include <cstddef>
+z#include <cstddef>
 
 enum offsets : ptrdiff_t
 {
 	PersistentLevel = 0x30,
-	Uworld = 0xEE9ED98,
+	Uworld = 0x10AEC0B8,
 	OwningGameInstance = 0x1b8, 
 	PlayerCameraManager = 0x348, 
 	local_players = 0x38,   
